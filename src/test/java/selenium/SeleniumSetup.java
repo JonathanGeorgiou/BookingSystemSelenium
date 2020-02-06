@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class SeleniumSetup {
 
-    public static final String URL = "http://localhost/BookingSystem/index.html";
+    public static final String URL = "http://localhost/index.html";
 
 
     private WebDriver driver;

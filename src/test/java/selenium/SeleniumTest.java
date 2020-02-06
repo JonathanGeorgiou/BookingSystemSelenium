@@ -44,7 +44,7 @@ public class SeleniumTest {
 
         setup.navToSelectService();
         String URL = driver.getCurrentUrl();
-        assertEquals(URL, "http://localhost/BookingSystem/select-service.html" );
+        assertEquals(URL, "http://localhost/select-service.html" );
 
 }
 
