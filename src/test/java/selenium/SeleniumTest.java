@@ -46,6 +46,6 @@ public class SeleniumTest {
         String URL = driver.getCurrentUrl();
         assertEquals(URL, "http://localhost/select-service.html" );
 
-}
+    }
 
 }
